@@ -1,0 +1,17 @@
+﻿@using FA.JustBlog.Core.Models;
+@model Post;
+@{
+    ViewData["Title"] = Model.Title;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<article class="mb-4">
+    <div class="container px-4 px-lg-5">
+        <div class="row gx-4 gx-lg-5 justify-content-center">
+            <h2 class="post-title" style="text-align:center">@Model.Title</h2>
+            <div >
+                <p>@Model.PostContent</p>
+            </div>
+        </div>
+    </div>
+</article>
+    

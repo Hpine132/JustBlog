@@ -1,0 +1,16 @@
+F:\study\FA\EFC\NEFW.A.L001\FA.JustBlog.Respository\bin\Debug\net6.0\appsettings.json
+F:\study\FA\EFC\NEFW.A.L001\FA.JustBlog.Respository\bin\Debug\net6.0\FA.JustBlog.Respository.deps.json
+F:\study\FA\EFC\NEFW.A.L001\FA.JustBlog.Respository\bin\Debug\net6.0\FA.JustBlog.Respository.dll
+F:\study\FA\EFC\NEFW.A.L001\FA.JustBlog.Respository\bin\Debug\net6.0\FA.JustBlog.Respository.pdb
+F:\study\FA\EFC\NEFW.A.L001\FA.JustBlog.Respository\bin\Debug\net6.0\FA.JustBlog.Core.dll
+F:\study\FA\EFC\NEFW.A.L001\FA.JustBlog.Respository\bin\Debug\net6.0\FA.JustBlog.Core.pdb
+F:\study\FA\EFC\NEFW.A.L001\FA.JustBlog.Respository\obj\Debug\net6.0\FA.JustBlog.Respository.csproj.AssemblyReference.cache
+F:\study\FA\EFC\NEFW.A.L001\FA.JustBlog.Respository\obj\Debug\net6.0\FA.JustBlog.Respository.GeneratedMSBuildEditorConfig.editorconfig
+F:\study\FA\EFC\NEFW.A.L001\FA.JustBlog.Respository\obj\Debug\net6.0\FA.JustBlog.Respository.AssemblyInfoInputs.cache
+F:\study\FA\EFC\NEFW.A.L001\FA.JustBlog.Respository\obj\Debug\net6.0\FA.JustBlog.Respository.AssemblyInfo.cs
+F:\study\FA\EFC\NEFW.A.L001\FA.JustBlog.Respository\obj\Debug\net6.0\FA.JustBlog.Respository.csproj.CoreCompileInputs.cache
+F:\study\FA\EFC\NEFW.A.L001\FA.JustBlog.Respository\obj\Debug\net6.0\FA.JustBlog.Respository.csproj.CopyComplete
+F:\study\FA\EFC\NEFW.A.L001\FA.JustBlog.Respository\obj\Debug\net6.0\FA.JustBlog.Respository.dll
+F:\study\FA\EFC\NEFW.A.L001\FA.JustBlog.Respository\obj\Debug\net6.0\refint\FA.JustBlog.Respository.dll
+F:\study\FA\EFC\NEFW.A.L001\FA.JustBlog.Respository\obj\Debug\net6.0\FA.JustBlog.Respository.pdb
+F:\study\FA\EFC\NEFW.A.L001\FA.JustBlog.Respository\obj\Debug\net6.0\ref\FA.JustBlog.Respository.dll

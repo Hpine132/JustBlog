@@ -1,0 +1,30 @@
+﻿@using FA.JustBlog.Core.Models;
+@using FA.JustBlog.Repository.Infrastructures;
+@inject IUnitOfWork uow;
+@{
+    ViewData["Title"] = "Latest Post";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var latestPosts = uow.PostRepository.GetLatestPost();
+}
+
+
+@if (latestPosts != null && latestPosts.Count > 0)
+{
+    @foreach (var item in latestPosts)
+    {
+        <div class="post-preview">
+            <a asp-action="Detail" asp-controller="Post" asp-route-year="@item.PostedOn.Year" asp-route-month="@item.PostedOn.Month" asp-route-title="@item.Title">
+                <h2 class="post-title">@item.Title</h2>
+                <h3 class="post-subtitle">@item.ShortDescription</h3>
+            </a>
+            <p class="post-meta">
+                Posted by
+                <a href="#!">Start Bootstrap</a>
+                @item.PostedOn
+            </p>
+        </div>
+        <hr class="my-4" />
+    }
+}
+
+
